@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@doc-tools/transform": "^2.14.2"
+  }
+}
