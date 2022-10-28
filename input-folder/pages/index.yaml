@@ -1,0 +1,11 @@
+title: Ягуар 420
+meta:
+  title: Yaguar 420
+  noIndex: true
+links:
+  - title: Выбираем телефон
+    description: Тестовый раздел номер 1
+    href: choose-phone/
+  - title: Выбираем телефон 2
+    description: Тестовый раздел номер 2
+    href: choose-phone-two/

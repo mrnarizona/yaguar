@@ -1,0 +1,9 @@
+title: Ягуар 420
+href: index.yaml
+items:
+  - name: Страница 1
+    href: choose-phone/uno.md
+  - name: Страница 2
+    href: choose-phone/due.md
+
+base: input-folder/pages
